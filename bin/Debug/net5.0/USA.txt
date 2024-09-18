@@ -1,5 +1,0 @@
-CÓDIGO NOMBRE CLIENTE                                    PAÍS                          CIUDAD                                            
------------------------------------------------------------------------------------------------------------------------------------------------
-3      Gardening Associates                              USA                           Miami                                             
-4      Gerudo Valley                                     USA                           New York                                          
-5      Tendo Garden                                      USA                           Miami                                             
