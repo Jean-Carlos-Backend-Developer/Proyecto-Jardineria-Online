@@ -28,21 +28,29 @@ __Uso__
 
 __Capturas de Pantalla__
 
-<img width="574" alt="Captura de Pantalla 2024-09-11 a las 13 51 00" src="https://github.com/user-attachments/assets/7408c333-8ad0-442a-b6f0-de5355061fc8">
+<img width="574" alt="Captura de Pantalla 2024-09-11 a las 13 51 00" src="https://github.com/user-attachments/assets/8d603a4f-5b9a-4fe4-9738-7075a2c19541">
 
 Menú Principal
 
-<img width="957" alt="Captura de Pantalla 2024-09-11 a las 13 56 54" src="https://github.com/user-attachments/assets/c5e4b05d-965a-4c35-9868-b708f31e4ac2">
+<img width="957" alt="Captura de Pantalla 2024-09-11 a las 13 56 54" src="https://github.com/user-attachments/assets/4e0cb467-8aff-4136-a8ee-274753620ea4">
 
-Opción de ver todos los clientes dentro del menú de Clientes
+Menú de clientes y opción de ver todos los clientes dentro del menú de consultas
 
-<img width="687" alt="Captura de Pantalla 2024-09-11 a las 14 00 49" src="https://github.com/user-attachments/assets/0ce65439-b590-4441-9ede-64522e2bd92d">
+<img width="649" alt="Captura de Pantalla 2024-09-18 a las 13 31 15" src="https://github.com/user-attachments/assets/55fd7ff0-2d0c-40c7-84b1-aad8fa8d2ed2">
 
-Opción de ver todos los clientes de España dentro del menú de consultas
+Menú de pedidos y opción de ver un pedido
 
-<img width="758" alt="Captura de Pantalla 2024-09-11 a las 14 04 12" src="https://github.com/user-attachments/assets/25e68a9b-d2d9-4bd4-af73-f7db0253bbe2">
+<img width="687" alt="Captura de Pantalla 2024-09-11 a las 14 00 49" src="https://github.com/user-attachments/assets/24bc8bdf-053a-4d7a-88e5-7d61482a17b5">
 
-Opción de escribir y mostrar por pantalla el fichero de Clientes de España
+Menú de consultas y opción de mostrar por pantalla el fichero de Clientes de España
+
+<img width="690" alt="Captura de Pantalla 2024-09-18 a las 13 44 08" src="https://github.com/user-attachments/assets/5a2221c5-162b-4977-a067-9b1d492ebcde">
+
+Menú de escribir clientes y opción de escribir y mostrar clientes de Estados Unidos
+
+<img width="1631" alt="Captura de Pantalla 2024-09-18 a las 13 47 28" src="https://github.com/user-attachments/assets/8c98f0ed-0b62-4884-ab30-8988d7dd6fa4">
+
+Menú de escribir pedidos y opción de ver pedidos con estado rechazado
 
 __Prueba el Proyecto__
 
