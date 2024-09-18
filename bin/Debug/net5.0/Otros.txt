@@ -1,0 +1,8 @@
+CÓDIGO NOMBRE CLIENTE                                    PAÍS                          CIUDAD                                            
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1                                                                                                                                        
+32     france telecom                                    France                        Paris                                             
+33     Musée du Louvre                                   France                        Paris                                             
+35     Tutifruti S.A                                     Australia                     Sydney                                            
+37     The Magic Garden                                  United Kingdom                London                                            
+38     El Jardin Viviente S.L                            Australia                     Sydney                                            
